@@ -15,9 +15,12 @@ if ($a > $b) {
 
 echo echoNL("-------");
 
-if ($argv[1] > $argv[2]) {
+$a1 = $argv[1];
+$a2 = $argv[2];
+
+if ($a1 > $a2) {
 	$result = echoNL("Primeiro > segundo");
-} else if ($argv[1] == $argv[2]) {
+} else if ($a1 == $a2) {
 	$result = echoNL("São iguais");
 } else {
 	$result = echoNL("Segundo > primeiro");
