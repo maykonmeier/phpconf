@@ -8,6 +8,8 @@ PHP Conf SC 2014 - PHP Essentials
 
 Cliquem em Watch esse repositório, estarei disponibilizando atualizações aqui, com tudo que vimos, para que vocês possam testar em casa e repetir o que realizamos em laboratório.
 
-Qualquer dúvida, estou a disposição.
-
 Os exemplos usados em sala de aula estão no diretório minicurso/.
+
+## Vagrant VM
+
+Para quem quiser já ir testando a VM, podem dar um git clone desse repositório `https://github.com/PHPSC/vm-minicursos`
